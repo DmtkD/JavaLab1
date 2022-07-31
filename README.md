@@ -12,7 +12,7 @@ Create a console program in Java and write ___a record class___ which will addit
 
 A separate class ___(Main)___ in which:
 6. In the main() method, create 3 objects of the type from the task (by passing a different number of parameters) and output information about them using the method from point 3 to the console
-7. The developed code must be uploaded to the git repository as a pull request! The repository should have a [README.md](https://github.com/DmtkD/JavaLab1/edit/javalab/README.md) and a [.gitignore](https://github.com/DmtkD/JavaLab1/blob/javalab/.gitignore).
+7. The developed code must be uploaded to the git repository as a pull request! The repository should have a [README.md](https://github.com/DmtkD/JavaLab1/blob/main/README.md) and a [.gitignore](https://github.com/DmtkD/JavaLab1/blob/javalab/.gitignore).
 
 ### The task was:
 Create a TouristPass record class that contains the fields:
